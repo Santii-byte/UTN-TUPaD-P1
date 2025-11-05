@@ -20,8 +20,6 @@ animales[-1]="oso"
 print(animales)
 
 #5)
-# Este codigo ncuentra el valor maximo de la lista - max(numeros) = 22
-# y despues lo elimina de la lista con remove()
 numeros = [8, 15, 3, 22, 7]
 numeros.remove(max(numeros))
 print(numeros)
